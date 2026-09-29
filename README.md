@@ -32,7 +32,7 @@ Before running the project, make sure you have:
 Open Command Prompt, PowerShell, or Terminal and run:
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/Rohan26062007/advance-python-calculator.git
 ```
 
 **2. Open the project folder**
