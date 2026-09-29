@@ -1,4 +1,5 @@
 # Project Statement
+The Advance Python Calculator is a calculator application developed using Python. The project is designed to perform both basic and special mathematical operations through a simple and user friendly interface.
 
 ## Project Title:
 
