@@ -1,20 +1,37 @@
-#Advance Python Calculator
+# Advance Python Calculator
 
 A modular console-based calculator built with Python that performs basic and advanced mathematical operations with input validation and error handling.
 
-## 🚀Features:
-~basic operations(add, subtract, multiply)
-~all type of divisions(decimal division, floor division, remainder)
-~special operations(power, factorial, GCD and LCM)
-~fast and super easy to use.
+## 🚀 Features
 
-## 🛠️Built With:
-~Python 3
-~Jupyter Notebook 
-~Git
-~GitHub
+* **Basic Operations:** Addition, subtraction, and multiplication.
+* **Division Operations:** Decimal division, floor division, and remainder.
+* **Special Operations:** Power, factorial, GCD, and LCM.
+* **Input Validation:** Handles invalid numeric input.
+* **Error Handling:** Detects division by zero.
+* **Menu-Driven Interface:** Easy to use and supports repeated calculations.
 
-## 📦Installation:
+## 🛠️ Built With
+
+* Python 3
+* Jupyter Notebook
+* Git
+* GitHub
+
+## 📁 Project Structure
+
+```text
+advance-python-calculator/
+├── main.py
+├── basic_operations.py
+├── division_operations.py
+├── special_operations.py
+├── calculation_utilis.py
+├── README.md
+└── statement.md
+```
+
+## 📦 Installation
 
 ### Prerequisites
 
@@ -51,7 +68,7 @@ If your system uses `python3`, run:
 python3 --version
 ```
 
-### Run the Project
+## ▶️ Run the Project
 
 Run the main Python file:
 
@@ -65,9 +82,40 @@ Or, if required:
 python3 main.py
 ```
 
-The calculator menu will appear in the terminal, and you can select an operation by entering the corresponding number.
+The calculator menu will appear in the terminal. Select an operation by entering its corresponding number.
 
-### Dependencies
+## 🧪 Testing
 
-This project uses only Python's built-in features and does not require any external Python libraries or packages.
+Run the program using the instructions above and test the following operations:
+
+| Operation        | Sample Input | Expected Output |
+| ---------------- | ------------ | --------------- |
+| Addition         | 10, 5        | 15              |
+| Subtraction      | 10, 5        | 5               |
+| Multiplication   | 10, 5        | 50              |
+| Decimal Division | 10, 4        | 2.5             |
+| Floor Division   | 10, 4        | 2               |
+| Remainder        | 10, 4        | 2               |
+| Power            | 2, 5         | 32              |
+| Factorial        | 5            | 120             |
+| GCD              | 12, 18       | 6               |
+| LCM              | 12, 18       | 36              |
+
+Also test division by zero, invalid input, and the exit option.
+
+## 📚 Dependencies
+
+This project uses Python's built-in features and does not require any external Python libraries or packages.
+
+## 👨‍💻 Author
+
+**Rohan Bhoi**
+Registration Number: 26BCE10543
+
+## 🎓 Project Information
+* **VITyarthi Project**
+* **Project Title:** Advance Python Calculator
+* **Project Type:** Console-Based Application
+* **Programming Language:** Python 3
+
 
