@@ -103,19 +103,10 @@ Run the program using the instructions above and test the following operations:
 
 Also test division by zero, invalid input, and the exit option.
 
-## 📚 Dependencies
-
-This project uses Python's built-in features and does not require any external Python libraries or packages.
-
 ## 👨‍💻 Author
 
 **Rohan Bhoi**
 Registration Number: 26BCE10543
 
-## 🎓 Project Information
-* **VITyarthi Project**
-* **Project Title:** Advance Python Calculator
-* **Project Type:** Console-Based Application
-* **Programming Language:** Python 3
 
 
