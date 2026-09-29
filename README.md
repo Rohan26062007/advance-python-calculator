@@ -14,7 +14,7 @@ A modular console-based calculator built with Python that performs basic and adv
 ## 🛠️ Built With
 
 * Python 3
-* Jupyter Notebook
+* VS Code
 * Git
 * GitHub
 
