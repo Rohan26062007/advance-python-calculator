@@ -16,8 +16,6 @@ A modular console-based calculator built with Python that performs basic and adv
 
 ## 📦Installation:
 
-## Installation
-
 ### Prerequisites
 
 Before running the project, make sure you have:
